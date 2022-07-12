@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.app {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.wrapperContent {
+  display: flex;
+  margin-top: 3rem;
+}

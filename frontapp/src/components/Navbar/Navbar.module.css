@@ -1,0 +1,26 @@
+.wrapperNavbar {
+  width: 25%;
+  padding-left: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.title {
+  margin-top: auto;
+  font-size: 1.5rem;
+  color:rgb(56, 56, 56);
+  margin-bottom: 2rem;
+}
+
+.linkWrapper {
+  margin-bottom: 0.5rem;
+}
+
+.item {
+  color: rgb(109, 109, 109);
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
