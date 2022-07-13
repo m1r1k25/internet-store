@@ -1,0 +1,40 @@
+.wrapper {
+  margin-right: 3rem;
+  margin-bottom: 3rem;
+  width: 16rem;
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: solid;
+  border-width: 0.125rem;
+  border-color: rgba(0, 0, 0, 0.089);
+}
+
+img {
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+  width: 14rem;
+  height: 14rem;
+}
+
+.wrapperDescr {
+  width: 85%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+p {
+  margin: 0.1rem 0;
+  font-size: 1rem;
+}
+
+.button {
+  margin-bottom: 0.5rem;
+  width: 5em;
+  height: 1.8rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
