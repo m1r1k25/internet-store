@@ -9,9 +9,7 @@ const ProductItem = () => {
       <div className={styles.wrapperDescr}>
         <p>Samsung i100</p>
         <p>$ 49.99</p>
-        <button className={styles.button}>Order</button>
       </div>
-      
     </div>
   );
 };
